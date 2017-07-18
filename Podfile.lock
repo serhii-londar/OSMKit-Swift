@@ -1,0 +1,24 @@
+PODS:
+  - AEXML (4.1.0)
+  - Alamofire (4.5.0)
+  - OSMKitSwift (0.1):
+    - OSMKitSwift/Core (= 0.1)
+  - OSMKitSwift/Core (0.1)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire
+  - OSMKitSwift (from `OSMKitSwift.podspec`)
+
+EXTERNAL SOURCES:
+  OSMKitSwift:
+    :path: OSMKitSwift.podspec
+
+SPEC CHECKSUMS:
+  AEXML: 647fbb051280f3fb38a1a7caa62b0344055a851c
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  OSMKitSwift: eb682d0ccafd54b256838eb3a68114f6a3f4237b
+
+PODFILE CHECKSUM: ed9eb1321cc01ceaa1eff24e4b4f14608f32bc46
+
+COCOAPODS: 1.2.1
